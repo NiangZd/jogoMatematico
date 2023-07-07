@@ -1,0 +1,83 @@
+*{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+body{
+    background-color: #363636 !important;
+}
+
+h1{
+    text-align: center !important;
+    color: #fff !important;
+}
+
+#logomarca{
+    color: #fff !important;
+}
+
+h2{
+    padding-top: 15px !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+
+main{
+    padding: 15px !important;
+    color: #000 !important;
+    margin: auto !important;
+    background-color: #fff !important;
+    width: 520px !important;
+    height: auto !important;
+    border-radius: 10px !important;
+    box-shadow: 1px 2px 10px #000 !important;
+}
+
+img{
+    margin-left: 110px !important;
+    padding-top: 10px !important;
+    width: 300px !important;
+    height: 300px !important;
+    border-radius: 50% !important;
+}
+
+#pergunta{
+    margin-top: 0 !important;
+}
+
+.parag-nav{
+    margin: 0px;
+}
+
+.button-nav-vg{
+    text-decoration: none;
+    border: none;
+    background-color: red;
+    color: #fff;
+    margin-left: 87%;
+    padding: 5px 14px;
+    border-radius: 10px;
+}
+
+.button-nav-vg:hover{
+    background-color: #8d0000;
+    text-decoration: none;
+    color: white;
+}
+
+.bg-light{
+    background-color: rgb(0, 40, 80) !important;
+}
+
+.h1-sis{
+    margin: 20px;
+}
+
+.table-bg{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.div-placar{
+    margin: 50px auto !important; 
+    display: block !important;
+}
